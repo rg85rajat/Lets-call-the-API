@@ -14,13 +14,11 @@ The server is running at localhost:3000
 
 ![Capture3](https://user-images.githubusercontent.com/72291911/112749764-28833380-8fe2-11eb-8ae3-b9ece87acc90.JPG)
 
-Fetching  Roll No query from the url (External API ie and passing the roll numbers seperated by comma to an array. 
+Fetching  Roll No query from the url (External API)  and passing the roll numbers seperated by comma.
 
 For splitting of Roll Numbers, split() is used with ',' .
 
 The result is displayed in a tabular format. 
-
-The result data is stored in an array and passed to display.pug
 
 ![Capture](https://user-images.githubusercontent.com/72291911/112749950-3d13fb80-8fe3-11eb-900d-f0d9f9ee8d2d.JPG)
 
