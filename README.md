@@ -43,7 +43,9 @@ Click Directly to view: https://terriblytinytale.herokuapp.com/testAPI?rollNo=5,
 ![Capture4](https://user-images.githubusercontent.com/72291911/112750379-ed82ff00-8fe5-11eb-9c82-93e491733379.JPG)
 
 Output of the testcase: 27
+
 http://localhost:3000/testAPI?rollNo=27
+
 https://terriblytinytale.herokuapp.com/testAPI?rollNo=27
 
 
