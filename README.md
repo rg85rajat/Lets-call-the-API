@@ -32,6 +32,8 @@ Array is passed and displayed in a tabular structure
 
 Front-End 
 
+After Clicking on Submit, Button will change into please wait and depending on the time taken by external API page will ask to wait.
+
 ![Capture7](https://user-images.githubusercontent.com/72291911/112750242-1d7dd280-8fe5-11eb-9565-37ee54ce3e30.JPG)
 
 Output of the test case: 5,6,9,12,18,20,25,30,32,36,37,38,40,42,45,47,49,50 
